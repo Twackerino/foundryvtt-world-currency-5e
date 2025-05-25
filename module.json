@@ -7,7 +7,7 @@
     "library": "false",
     "compatibility": {
         "minimum": "10",
-        "verified": "11.315"
+        "verified": "12.331"
     },
     "conflicts": [],
     "esmodules": ["scripts/main.js"],
@@ -27,14 +27,14 @@
                 "type": "system",
                 "compatibility": {
                     "minimum": "2.0.3",
-                    "verified": "3.0.3"
+                    "verified": "4.4.3"
                 }
             }
         ]
     },
-    "url": "https://github.com/cstby/foundryvtt-world-currency-5e",
-    "manifest": "https://raw.githubusercontent.com/cstby/foundryvtt-world-currency-5e/master/module.json",
-    "download": "https://github.com/cstby/foundryvtt-world-currency-5e/archive/master.zip",
+    "url": "https://github.com/Trentone/foundryvtt-world-currency-5e",
+    "manifest": "https://raw.githubusercontent.com/Trentone/foundryvtt-world-currency-5e/master/module.json",
+    "download": "https://github.com/Trentone/foundryvtt-world-currency-5e/archive/master.zip",
     "media": [
         {
             "type": "icon",
