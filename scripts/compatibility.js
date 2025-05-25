@@ -4,11 +4,11 @@
 
 import { getCurrencySettings, ALT_ABRV, ALT } from "./world-currency-5e.js";
 
-function changeText(currency, altAbrv) {
+function changeText(html, currency, altAbrv) {
     html.find(`[class="denomination ${currency}"]`).text(getCurrencySettings()[altAbrv]);
 }
 
-function swapDnd5eIcon(currency, altAbrv) {
+function swapDnd5eIcon(html, currency, altAbrv) {
     html.find(`[class="currency ${currency}"]`)
         ?.removeClass(currency)
         ?.addClass(` ${getCurrencySettings()[altAbrv].toLowerCase()}`);
