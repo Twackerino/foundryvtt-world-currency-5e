@@ -1,5 +1,5 @@
 {
-    "name": "world-currency-5e",
+    "id": "world-currency-5e",
     "title": "World Currency 5e",
     "description": "Use currencies unique to your world in D&D 5E.",
     "authors": [{ "name": "cstby" }],
@@ -32,9 +32,9 @@
             }
         ]
     },
-    "url": "https://github.com/Trentone/foundryvtt-world-currency-5e",
-    "manifest": "https://raw.githubusercontent.com/Trentone/foundryvtt-world-currency-5e/master/module.json",
-    "download": "https://github.com/Trentone/foundryvtt-world-currency-5e/archive/master.zip",
+    "url": "https://github.com/Twackerino/foundryvtt-world-currency-5e",
+    "manifest": "https://raw.githubusercontent.com/Twackerino/foundryvtt-world-currency-5e/master/module.json",
+    "download": "https://github.com/Twackerino/foundryvtt-world-currency-5e/archive/master.zip",
     "media": [
         {
             "type": "icon",
